@@ -118,9 +118,6 @@
   <ItemGroup>
     <ClCompile Include="src\glad.c" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="Glad.vcxproj.filters" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
